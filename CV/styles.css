@@ -1,0 +1,119 @@
+
+body {
+    background-color: wheat;
+}
+.Borde {
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 2px;
+}
+.Borde {
+    position: relative;
+    left: 150px;
+    width: 100px;
+    bottom: 50px;
+    text-align: center;
+}
+.Titulo-cv {
+    position: relative;
+    left: 300px;
+    bottom: 150px;
+    font-size: 50px;
+}
+img {
+    border-radius: 50%;
+    position: relative;
+    left: 60px;
+    top: 40px;
+}
+.Cargo {
+    border: 2px solid black;
+    border-radius: 8px;
+    width: 300px;
+    position: relative;
+    left: 325px;
+    bottom: 170px;
+    text-align: center;
+    font-size: 25px;
+}
+ul {
+    position: relative;
+    left: 75px;
+    bottom: 35px;
+}
+.Skills {
+    border: 2px solid black;
+    border-radius: 8px;
+    width: 100px;
+    position: relative;
+    left: 150px;
+    text-align: center; 
+}
+.Skills-ul {
+    position: relative;
+    left: 75px;
+    top: 15px;
+}
+.Idiomas {
+    border: 2px solid black;
+    border-radius: 8px;
+    width: 100px;
+    text-align: center;
+    position: relative;
+    left: 150px;
+    bottom: -30px;
+}
+.Idiomas-ul {
+    position: relative;
+    left: 75px;
+    bottom: -45px;
+}
+.About-me {
+    border: 2px solid black;
+    border-radius: 8px;
+    width: 100px;
+    text-align: center;
+    position: relative;
+    left: 700px;
+    bottom: 368px;
+}
+p {
+    position: relative;
+    left: 625px;
+    text-align: justify;
+    bottom: 360px;
+    border: 2px solid wheat;
+    border-radius: 8px;
+    width: 250px;
+}
+.Educación {
+    border: 2px solid black;
+    border-radius: 8px;
+    width: 100px;
+    text-align: center;
+    position: relative;
+    left: 700px;
+    bottom: 350px
+}
+.Educacion-ul {
+    position: relative;
+    left: 600px;
+    border: 2px wheat;
+    border-radius: 8px;
+    width: 250px;
+    bottom: 330px;
+}
+.Experiencia {
+    border: 2px solid black;
+    border-radius: 8px;
+    width: 100px;
+    text-align: center;
+    position: relative;
+    left: 700px;
+    bottom: 310px;
+}
+.Experiencia-ul {
+    position: relative;
+    left: 600px;
+    bottom: 300px;
+}
